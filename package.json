@@ -1,0 +1,14 @@
+{
+  "name": "super-objects",
+  "version": "0.0.1",
+  "main": "main.ts",
+  "files": [
+    "main.ts"
+  ],
+  "dependencies": {
+    "loggable-object": "^0.0.6",
+    "migratable-object": "^0.0.12",
+    "multistub": "^0.0.8",
+    "queryable-object": "^0.0.2"
+  }
+}
