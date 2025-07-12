@@ -1,1 +1,1 @@
-Combined version of all super-objects from https://itscooldo.com
+Combined version of all stable super-objects from https://itscooldo.com
