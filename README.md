@@ -1,5 +1,5 @@
-Combined version of all stable super-objects from https://itscooldo.com
+Combined version of all stable power-objects from https://itscooldo.com
 
 ```
-npm i super-objects
+npm i power-objects
 ```
